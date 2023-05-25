@@ -1,0 +1,9 @@
+[Scheme]
+Name=GitHub Light
+ColorCursor=#6a737d
+ColorForeground=#586069
+ColorBackground=#f6f8fa
+TabActivityColor=#A51D2D
+ColorPalette=#24292e;#d73a49;#22863a;#b08800;#0366d6;#6f42c1;#1b7c83;#6a737d;#586069;#cb2431;#28a745;#dbab09;#2188ff;#8a63d2;#3192aa;#959da5
+ColorBold=#D8DEE9
+ColorBoldUseDefault=FALSE
